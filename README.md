@@ -51,7 +51,7 @@
 > This kernel is not supported. Trying fuzzy matching...
 Serverspeeder is not supported on this kernel! View all supported systems and kernels here: https://www.91yun.org/serverspeeder91yun  
 
-需要手动修改内核，或者重新安装系统， 由于我的系统内核不支持，所以要手动修改。 如果很不幸你看到了上面的报错，请直接跳到`2、手动修改内核`，如果你没有看到上面内容，而是看到了   
+需要手动修改内核，或者重新安装系统（注意！CentOS7无法切换至更低内核，请务必使用CentOS6级别内核，2.6.32-XXX.el6.x86_64测试通过。[错误详情](https://www.centos.org/forums/viewtopic.php?t=57922)）， 由于我的系统内核不支持，所以要手动修改。 如果很不幸你看到了上面的报错，请直接跳到`2、手动修改内核`，如果你没有看到上面内容，而是看到了   
 
 ```
 [Running Status]
